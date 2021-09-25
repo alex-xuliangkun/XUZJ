@@ -1,0 +1,6 @@
+framework module XUZJ {
+  umbrella header "XUZJ-umbrella.h"
+
+  export *
+  module * { export * }
+}
