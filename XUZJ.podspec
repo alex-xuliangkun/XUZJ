@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XUZJ'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'A short description of XUZJ.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com:alex-xuliangkun/XUZJ'
+  s.homepage         = 'git@github.com:alex-xuliangkun/XUZJ'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xuliangkun' => '451764908@qq.com' }
